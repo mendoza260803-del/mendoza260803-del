@@ -76,9 +76,12 @@ Me gusta construir soluciones reales, aprender nuevas tecnologías constantement
 ---
 
 ## 📊 Estadísticas de GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mendoza260803-del&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendoza260803-del&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mendoza260803-del&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendoza260803-del&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=mendoza260803-del&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -88,5 +91,11 @@ https://www.linkedin.com/in/javier-mendoza-mondrag%C3%B3n-6a1258239/
 
 ---
 
-## ⚡ Filosofía
-> No se trata de hacer lo mismo que todos, sino de crear soluciones que realmente marquen la diferencia.
+## 💡 Lo que me diferencia
+
+No me enfoco en seguir tendencias, sino en crear soluciones que realmente aporten valor.
+
+Mientras otros replican proyectos comunes, yo busco desarrollar sistemas que:
+- Procesen datos de forma inteligente
+- Automaticen decisiones
+- Optimicen procesos reales
