@@ -64,7 +64,7 @@ Me gusta construir soluciones reales, aprender nuevas tecnologías constantement
 🔧 Actualmente estoy trabajando en más proyectos que pronto estaré subiendo  
 
 👉 Puedes ver mis repos aquí:  
-🔗 https://github.com/mendoza260803-del
+🔗 https://github.com/mendoza260803-del?tab=repositories
 
 ---
 
