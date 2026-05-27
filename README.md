@@ -77,11 +77,9 @@ Me gusta construir soluciones reales, aprender nuevas tecnologías constantement
 
 ## 📊 Estadísticas de GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mendoza260803-del&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mendoza260803-del&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendoza260803-del&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=mendoza260803-del&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendoza260803-del&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
